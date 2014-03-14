@@ -43,7 +43,7 @@ public class Universe extends SWorld
         setMainActor(brocken, 470, 470);
         GreenfootImage bg = new GreenfootImage("ValleyOfDreams2.jpg");
         setScrollingBackground(bg); // set the scolling background image
-        Greenfoot.setSpeed(100);
+        Greenfoot.setSpeed(50);
         setupBars();
         setupLevelOne();
         levelOne.play();
