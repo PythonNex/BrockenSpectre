@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=basename\ suffix\ noOfImages
+comment0.target=AnimatedActor(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Construct\ an\ animated\ actor.\ This\ assumes\ that\ you\ have\ provided\ image\r\n\ file\ (in\ the\ 'images'\ folder)\ named\ 'basenameN.suffix',\ where\ N\ is\r\n\ [0..numberOfImages-1].\r\n\ \r\n\ @param\ basename\ \ The\ base\ name\ of\ the\ image\ files.\r\n\ @param\ suffix\ \ The\ suffix\ of\ the\ image\ files\ (must\ include\ the\ ".").\r\n\ @param\ noOfImages\ \ The\ number\ of\ images\ to\ be\ use\ din\ the\ animation.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ AnimatedActor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

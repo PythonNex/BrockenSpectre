@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment0.text=\r\nConstructor\ for\ our\ hero.\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Hero\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ getOrientation()
+comment2.text=\r\n\ Determines\ any\ changes\ in\ horizontal\ and\ vertical\ speeds\ for\ the\ actor.\r\n
+comment3.params=
+comment3.target=void\ getIcon()
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\r\n\ Moves\ the\ actor\ with\ appropriate\ image.\ \ \r\n
+comment5.params=
+comment5.target=void\ checkCollision()
+comment5.text=\r\n\ Checks\ for\ obstacles\ and\ adjusts\ the\ position\ and\ attributes\ of\ the\ actor\ accordingly.\r\n
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=
+comment7.target=int\ getPower()
+comment8.params=
+comment8.target=int\ getNumTesseracts()
+numComments=9
